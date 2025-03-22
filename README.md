@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Sai Rakesh Reddy Mandala! 👋</h1>
-<h3 align="center">Passionate AI & ML Developer | SAP Enthusiast | Full-Stack Developer</h3>
+<h3 align="center">Passionate AI & ML Developer | Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/rakeshreddymandala?label=Followers&style=social" alt="GitHub Followers">
